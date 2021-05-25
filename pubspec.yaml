@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  back_button_interceptor: ^5.0.0-nullsafety.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
